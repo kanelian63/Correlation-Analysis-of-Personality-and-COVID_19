@@ -4,7 +4,7 @@ Correlation Analysis of Big Five Personality &amp; Coronavirus disease 2019
 # Likert scale
 A Likert scale is basically a scale used to represent people's opinions and attitudes to a topic or subject matter. The Likert scale ranges from one extreme to another, for example “extremely likely” to “not at all likely. It uses psychometric testing to measure beliefs, attitudes, and opinions of subjects.
 
-상관관계 분석을 위해서 모든 변수는 연속형 변수이거나, 서열척도여야 한다. 연속형변수 일때는 Pearson상관분석을, 서열척도일때는 Spearman상관분석을 사용한다. 리커트 척도이기 때문에 Pearson의 상관분석 기법으로 진행할거랍니다. 
+상관관계 분석을 위해서 모든 변수는 연속형 변수이거나, 서열척도여야 한다. 연속형변수 일때는 Pearson상관분석을, 서열척도일때는 Spearman상관분석을 사용한다. 해당 데이터는 리커트 척도이기 때문에 Pearson상관분석으로 분석하였다.
 
 # Response bias
 Response bias is a general term for a wide range of tendencies for participants to respond inaccurately or falsely to questions. These biases are prevalent in research involving participant self-report, such as structured interviews or surveys. Response biases can have a large impact on the validity of questionnaires or surveys.
