@@ -18,7 +18,7 @@ A Likert scale is basically a scale used to represent people's opinions and atti
 
 # Linear Mixed Model (LMM)
 # Generalized Estimating Equations
-# 응
+# 응답 편향
 # Dataset
 1. Big Five Personality Test (1M Answers to 50 personality items, and technical information)
 
