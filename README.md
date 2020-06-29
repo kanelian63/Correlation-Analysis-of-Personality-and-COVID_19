@@ -6,12 +6,15 @@ A Likert scale is basically a scale used to represent people's opinions and atti
 
 상관관계 분석을 위해서 모든 변수는 연속형 변수이거나, 서열척도여야 한다. 연속형변수 일때는 Pearson상관분석을, 서열척도일때는 Spearman상관분석을 사용한다. 리커트 척도이기 때문에 Pearson의 상관분석 기법으로 진행할거랍니다. 
 
-# Linear Mixed Model (LMM)
-# Generalized Estimating Equations
 # 응답 편향
 
 # Distribution of Traits
 ![traits](https://user-images.githubusercontent.com/59387983/86057766-bc978d00-ba9a-11ea-83b5-a6a98915da48.png)
+
+'OPN': '개방성','CSN': '성실성','EXT': '외향성','AGR': '친화성','EST': '안정성'
+
+개방성과 친화성의 경우, 상대적으로 높은 점수 분포를 보인다. 반면 외향성과 안정성의 경우, 상대적으로 낮은 분포를 보인다.
+성실성의 경우, 고르고 분포하고 있다.
 
 # Answer Distribution of Positive Questions
 ![pos_questions](https://user-images.githubusercontent.com/59387983/86057749-b6a1ac00-ba9a-11ea-8000-fca084b082c2.png)
