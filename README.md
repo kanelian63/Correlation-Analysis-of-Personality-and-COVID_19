@@ -26,25 +26,24 @@ OPN:개방성, CSN:성실성, EXT:외향성, AGR:친화성, EST:안정성
 2. Negative Questions
     ![neg_questions](https://user-images.githubusercontent.com/59387983/86057755-b7d2d900-ba9a-11ea-8b60-3291979193fc.png)
 
-
-
 # Answer Distribution of KR, DE, US
 ![compare](https://user-images.githubusercontent.com/59387983/86057762-bacdc980-ba9a-11ea-94b6-39381719421e.png)
 
-# Pearson Correlation of Openness & COVID-19
-![OPN](https://user-images.githubusercontent.com/59387983/86057804-cc16d600-ba9a-11ea-92b8-b547ddb90854.png)
+# Pearson Correlation of Traits & COVID-19
+개방성에 대해서 약한 상관관계가 통계적으로 유의미함을 갖는 것을 알수 있다. 4가지 특성과 회복, 죽음과 관련하여 통계적으로 유의미함을 갖지 않는다고 할 수 있다.
 
-# Pearson Correlation of Conscientiousness & COVID-19
-![CSN](https://user-images.githubusercontent.com/59387983/86057811-cd480300-ba9a-11ea-90c1-8ffe3d7f2d01.png)
+1. Openness(개방성)
+    ![OPN](https://user-images.githubusercontent.com/59387983/86057804-cc16d600-ba9a-11ea-92b8-b547ddb90854.png)
+2. Conscientiousness(성실성)
+    ![CSN](https://user-images.githubusercontent.com/59387983/86057811-cd480300-ba9a-11ea-90c1-8ffe3d7f2d01.png)
+3. Extroversion(외향성)
+    ![EXT](https://user-images.githubusercontent.com/59387983/86057816-cf11c680-ba9a-11ea-82d6-be7455ebe0df.png)
+4. Agreeableness(친화성)
+    ![AGR](https://user-images.githubusercontent.com/59387983/86057818-d042f380-ba9a-11ea-924a-7afe54b3bee2.png)
+5. Emotional Stability(안정성)
+    ![EST](https://user-images.githubusercontent.com/59387983/86057825-d1742080-ba9a-11ea-8cc5-3698494385ff.png)
 
-# Pearson Correlation of Extroversion & COVID-19
-![EXT](https://user-images.githubusercontent.com/59387983/86057816-cf11c680-ba9a-11ea-82d6-be7455ebe0df.png)
 
-# Pearson Correlation of Agreeableness & COVID-19
-![AGR](https://user-images.githubusercontent.com/59387983/86057818-d042f380-ba9a-11ea-924a-7afe54b3bee2.png)
-
-# Pearson Correlation of Emotional Stability & COVID-19
-![EST](https://user-images.githubusercontent.com/59387983/86057825-d1742080-ba9a-11ea-8cc5-3698494385ff.png)
 
 # Dataset
 1. Big Five Personality Test (1M Answers to 50 personality items, and technical information)
