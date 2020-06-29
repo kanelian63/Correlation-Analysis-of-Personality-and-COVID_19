@@ -13,7 +13,7 @@ Response bias is a general term for a wide range of tendencies for participants 
 
 # Distribution of Traits
 OPN:개방성, CSN:성실성, EXT:외향성, AGR:친화성, EST:안정성
-![traits](https://user-images.githubusercontent.com/59387983/86057766-bc978d00-ba9a-11ea-83b5-a6a98915da48.png)
+    ![traits](https://user-images.githubusercontent.com/59387983/86057766-bc978d00-ba9a-11ea-83b5-a6a98915da48.png)
 
 개방성과 친화성의 경우, 상대적으로 높은 점수 분포를 보인다. 반면 외향성과 안정성의 경우, 상대적으로 낮은 분포를 보인다.
 성실성의 경우, 고르고 분포하고 있다.
@@ -27,7 +27,8 @@ OPN:개방성, CSN:성실성, EXT:외향성, AGR:친화성, EST:안정성
     ![neg_questions](https://user-images.githubusercontent.com/59387983/86057755-b7d2d900-ba9a-11ea-8b60-3291979193fc.png)
 
 # Answer Distribution of KR, DE, US
-![compare](https://user-images.githubusercontent.com/59387983/86057762-bacdc980-ba9a-11ea-94b6-39381719421e.png)
+한국, 독일, 미국, 일본의 상대적인 분포를 표현하였다. 한국, 미국, 일본의 경우 분포가 비슷하나, 독일의 경우 높은 점수의 분포가 특징적이다.
+    ![compare](https://user-images.githubusercontent.com/59387983/86060463-b35cef00-ba9f-11ea-9a52-1bd80d831633.png)
 
 # Pearson Correlation of Traits & COVID-19
 개방성에 대해서 약한 상관관계가 통계적으로 유의미함을 갖는 것을 알수 있다. 4가지 특성과 회복, 죽음과 관련하여 통계적으로 유의미함을 갖지 않는다고 할 수 있다.
