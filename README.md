@@ -19,8 +19,10 @@ OPN:개방성, CSN:성실성, EXT:외향성, AGR:친화성, EST:안정성
 성실성의 경우, 고르고 분포하고 있다.
 
 # Answer Distribution of Positive & Negative Questions
-1. ![pos_questions](https://user-images.githubusercontent.com/59387983/86057749-b6a1ac00-ba9a-11ea-8000-fca084b082c2.png)
-2. ![neg_questions](https://user-images.githubusercontent.com/59387983/86057755-b7d2d900-ba9a-11ea-8b60-3291979193fc.png)
+1. Positive Questions
+    ![pos_questions](https://user-images.githubusercontent.com/59387983/86057749-b6a1ac00-ba9a-11ea-8000-fca084b082c2.png)
+2. Negative Questions
+    ![neg_questions](https://user-images.githubusercontent.com/59387983/86057755-b7d2d900-ba9a-11ea-8b60-3291979193fc.png)
 
 긍정 질문에 대한 점수는 상대적으로 높은 분포를 보이고, 부정적인 질문에 대한 점수는 상대적으로 낮은 것으로 보인다. 이는 응답자가 사회적, 도덕적으로 바람직한 답변을 하는 경향이 있음을 나타낸다. 
 
