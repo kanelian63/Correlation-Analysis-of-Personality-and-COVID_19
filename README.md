@@ -19,6 +19,34 @@ A Likert scale is basically a scale used to represent people's opinions and atti
 # Linear Mixed Model (LMM)
 # Generalized Estimating Equations
 # 응답 편향
+
+# Distribution of Traits
+![traits](https://user-images.githubusercontent.com/59387983/86057766-bc978d00-ba9a-11ea-83b5-a6a98915da48.png)
+
+# Answer Distribution of Positive Questions
+![pos_questions](https://user-images.githubusercontent.com/59387983/86057749-b6a1ac00-ba9a-11ea-8000-fca084b082c2.png)
+
+# Answer Distribution of Negative Questions
+![neg_questions](https://user-images.githubusercontent.com/59387983/86057755-b7d2d900-ba9a-11ea-8b60-3291979193fc.png)
+
+# Answer Distribution of KR, DE, US
+![compare](https://user-images.githubusercontent.com/59387983/86057762-bacdc980-ba9a-11ea-94b6-39381719421e.png)
+
+# Correlation of Openness & COVID-19
+![OPN](https://user-images.githubusercontent.com/59387983/86057804-cc16d600-ba9a-11ea-92b8-b547ddb90854.png)
+
+# Correlation of Conscientiousness & COVID-19
+![CSN](https://user-images.githubusercontent.com/59387983/86057811-cd480300-ba9a-11ea-90c1-8ffe3d7f2d01.png)
+
+# Correlation of Extroversion & COVID-19
+![EXT](https://user-images.githubusercontent.com/59387983/86057816-cf11c680-ba9a-11ea-82d6-be7455ebe0df.png)
+
+# Correlation of Agreeableness & COVID-19
+![AGR](https://user-images.githubusercontent.com/59387983/86057818-d042f380-ba9a-11ea-924a-7afe54b3bee2.png)
+
+# Correlation of Emotional Stability & COVID-19
+![EST](https://user-images.githubusercontent.com/59387983/86057825-d1742080-ba9a-11ea-8cc5-3698494385ff.png)
+
 # Dataset
 1. Big Five Personality Test (1M Answers to 50 personality items, and technical information)
 
