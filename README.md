@@ -42,8 +42,6 @@ Response bias is a general term for a wide range of tendencies for participants 
 5. Emotional Stability(안정성)
     ![EST](https://user-images.githubusercontent.com/59387983/86057825-d1742080-ba9a-11ea-8cc5-3698494385ff.png)
 
-
-
 # Dataset
 1. Big Five Personality Test (1M Answers to 50 personality items, and technical information)
 
@@ -63,3 +61,9 @@ Response bias is a general term for a wide range of tendencies for participants 
     the number of people who have reportedly recovered from it
 
     source : https://github.com/datasets/covid-19
+
+# Reference
+https://www.youtube.com/watch?v=gm2ijit38Hg
+
+# P.s
+개인적으로 응답편향을 어떻게든 처리해보고 싶었으나, 찾아보니 이에 대한 처리가 쉽지 않다고 한다. 리커트 척도에 대한 응답편향을 제대로 처리할 통계적인 지식을 갖춘다면 데이터를 다시 다뤄서 올리고 싶다. 적어도 내가 뭘 모르고, 뭘 알아야하는지 조금은 더 알수 있었다.
