@@ -9,9 +9,10 @@ A Likert scale is basically a scale used to represent people's opinions and atti
 # 응답 편향
 
 # Distribution of Traits
+OPN:개방성, CSN:성실성, EXT:외향성, AGR:친화성, EST:안정성
 ![traits](https://user-images.githubusercontent.com/59387983/86057766-bc978d00-ba9a-11ea-83b5-a6a98915da48.png)
 
-'OPN': '개방성','CSN': '성실성','EXT': '외향성','AGR': '친화성','EST': '안정성'
+
 
 개방성과 친화성의 경우, 상대적으로 높은 점수 분포를 보인다. 반면 외향성과 안정성의 경우, 상대적으로 낮은 분포를 보인다.
 성실성의 경우, 고르고 분포하고 있다.
