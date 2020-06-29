@@ -65,5 +65,11 @@ Response bias is a general term for a wide range of tendencies for participants 
 # Reference
 https://www.youtube.com/watch?v=gm2ijit38Hg
 
+https://github.com/kairess/COVID-19-personality-correlation
+
+http://doc.mindscale.kr/km/python/11.html
+
+http://kasr.skyd.co.kr/images/12_2_3
+
 # P.s
 개인적으로 응답편향을 어떻게든 처리해보고 싶었으나, 찾아보니 이에 대한 처리가 쉽지 않다고 한다. 리커트 척도에 대한 응답편향을 제대로 처리할 통계적인 지식을 갖춘다면 데이터를 다시 다뤄서 올리고 싶다. 적어도 내가 뭘 모르고, 뭘 알아야하는지 조금은 더 알수 있었다.
