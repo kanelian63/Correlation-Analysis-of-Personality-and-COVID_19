@@ -62,7 +62,7 @@ Response bias is a general term for a wide range of tendencies for participants 
 
     source : https://github.com/datasets/covid-19
 
-# Reference
+# References
 https://www.youtube.com/watch?v=gm2ijit38Hg
 
 https://github.com/kairess/COVID-19-personality-correlation
