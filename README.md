@@ -29,7 +29,7 @@ Response bias is a general term for a wide range of tendencies for participants 
         ![compare](https://user-images.githubusercontent.com/59387983/86060463-b35cef00-ba9f-11ea-9a52-1bd80d831633.png)
 
 # Pearson Correlation of Traits & COVID-19
-개방성에 대해서 약한 상관관계가 통계적으로 유의미함을 갖는 것을 알수 있다. 4가지 특성과 회복, 죽음과 관련하여 통계적으로 유의미함을 갖지 않는다고 할 수 있다.
+개방성에 대해서 약한 상관관계가 통계적으로 유의미함(p=0.04)을 갖는 것을 알수 있다. 4가지 특성과 회복, 죽음과 관련하여 통계적으로 유의미함을 갖지 않는다고 할 수 있다.
 
 1. Openness(개방성)
     ![OPN](https://user-images.githubusercontent.com/59387983/86057804-cc16d600-ba9a-11ea-92b8-b547ddb90854.png)
@@ -72,4 +72,4 @@ http://doc.mindscale.kr/km/python/11.html
 http://kasr.skyd.co.kr/images/12_2_3
 
 # P.s
-개인적으로 응답편향을 어떻게든 처리해보고 싶었으나, 찾아보니 이에 대한 처리가 쉽지 않다고 한다. 리커트 척도에 대한 응답편향을 제대로 처리할 통계적인 지식을 갖춘다면 데이터를 다시 다뤄서 올리고 싶다. 적어도 내가 뭘 모르고, 뭘 알아야하는지 조금은 더 알수 있었다.
+개인적으로 응답편향을 어떻게든 처리해보고 싶었으나, 찾아보니 이에 대한 처리가 쉽지 않다고 한다. 리커트 척도에 대한 응답편향을 제대로 처리할 통계적인 지식을 갖춘다면 데이터를 다시 핸들링하여 상관관계를 제대로 확인하고 싶다. 적어도 내가 뭘 모르고, 뭘 알아야하는지 조금은 더 알수 있었다.
