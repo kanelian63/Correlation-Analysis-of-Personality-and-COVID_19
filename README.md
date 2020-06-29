@@ -21,9 +21,9 @@ A Likert scale is basically a scale used to represent people's opinions and atti
 # Dataset
 1. Big Five Personality Test (1M Answers to 50 personality items, and technical information)
 
-source : https://www.kaggle.com/tunguz/big-five-personality-test
+    source : https://www.kaggle.com/tunguz/big-five-personality-test
 
 
 2. Coronavirus disease 2019 (COVID-19)
 
-source : https://github.com/datasets/covid-19
+    source : https://github.com/datasets/covid-19
